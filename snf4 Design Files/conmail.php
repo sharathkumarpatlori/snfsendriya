@@ -18,7 +18,7 @@ $phone = $_POST['phone'];
 $subject = $_POST['subject']; 
 $message = $_POST['message'];
 
- $to = "info@snf4.org";
+ $to = "teamsnfsendriya@gmail.com";
 $sub = $name."wants to contact you  (snf4.org)"; 
 $msg = "Dear Admin, <br />";
 $msg .= 'Snf4 Contact Form<table border="1">';
